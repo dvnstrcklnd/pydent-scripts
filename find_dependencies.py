@@ -1,6 +1,6 @@
 import re
 import argparse
-from pydent_helper import create_session
+from util.pydent_helper import create_session
 
 def main():
     args = get_args()
