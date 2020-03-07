@@ -41,3 +41,14 @@ In order to add credentials for your Aquarium instance(s), `cp util/secrets_temp
   }
 }
 ```
+
+## Usage
+### `find_dependencies.py`
+The basic usage is 
+```bash
+python find_dependencies.py -p <plan_id> -i <aq_instance>
+```
+e.g.
+```bash
+python find_dependencies.py -p 38288 -i production
+```
