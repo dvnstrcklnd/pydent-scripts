@@ -18,7 +18,7 @@ Running in this environment eliminates the need to install Trident or manage you
 [git](https://git-scm.com/) with the command
 
 ```bash
-git clone ?
+git clone git@github.com:dvnstrcklnd/pydent-scripts.git
 ```
 
 ### 2. Open in VS Code dev container
